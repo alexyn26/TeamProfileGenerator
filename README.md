@@ -28,5 +28,6 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
 ## Demo
-
+[Untitled_ Dec 3, 2022 10_24 PM.webm](https://user-images.githubusercontent.com/107084291/205474539-2c8234dc-4d33-4e29-9d0b-6dc329ad5f43.webm)
+[127.0.0.1_5500_Main_dist_team.webm](https://user-images.githubusercontent.com/107084291/205474541-080fd7c9-16b2-4e19-a51a-fddb617589b7.webm)
 
